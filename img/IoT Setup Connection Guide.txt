@@ -1,0 +1,30 @@
+IoT Setup Connection Guide
+
+- Breadboard Positive Power Rail (left) -> Breadboard Positive Power Rail (right) 
+- Breadboard Negative Power Rail (left) -> Breadboard Negative Power Rail (right) 
+- Maker VP / Breadboard A3 -> Breadboard Positive Power Rail (left) 
+- Maker GND / Breadboard A4 -> Breadboard Negative Power Rail (left) 
+- Red LED Anode -> Breadboard E23, Cathode -> Breadboard E24 
+- Yellow LED Anode -> Breadboard E26, Cathode -> Breadboard E27 
+- Green LED Anode -> Breadboard E29, Cathode -> Breadboard E30 
+- Red LED Anode (Breadboard C23) -> Maker Pin D9 / Breadboard A6 
+- Yellow LED Anode (Breadboard C26) -> Maker Pin D5 / Breadboard A8 
+- Green LED Anode (Breadboard C29) -> Maker Pin D4 / Breadboard A9 
+- Resistor -> Red LED Cathode (Breadboard D24), Breadboard Negative Power Rail (left)
+- Resistor -> Yellow LED Cathode (Breadboard D27), Breadboard Negative Power Rail (left) 
+- Resistor -> Green LED Cathode (Breadboard D30), Breadboard Negative Power Rail (left) 
+- SG90 micro servo SIG -> Maker Pin A11 (D14) / Breadboard I8
+- SG90 micro servo VCC -> Maker USB / Breadboard I7
+- SG90 micro servo GND -> Breadboard Negative Power Rail (right) 
+- Rain A0 -> Maker Pin A8 (D18) / Breadboard A13
+- Rain VCC -> Breadboard Positive Power Rail (left)
+- Rain GND -> Breadboard Negative Power Rail (left)
+- DHT11 SIG -> Maker Port (right) Pin D42 
+- DHT11 VCC -> Maker Port (right) VP
+- DHT11 GND -> Maker Port (right) G
+- Water Level SIG -> Maker Port (left) Pin A5
+- Water Level VCC -> Maker Port (left) VP 
+- Water Level GND -> Maker Port (left) G
+- Moisture A0 -> Maker Port (middle) Pin A2
+- Moisture VCC -> Maker Port (middle) VP 
+- Moisture GND -> Maker Port (middle) G
