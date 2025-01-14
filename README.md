@@ -84,7 +84,7 @@ Ensure the following libraries and tools are installed:
 
 ## How to Run  
 1. Open Arduino IDE  
-2. Copy the code into the Arduino IDE or open the CPC_Project_Code.ino file. 
+2. Copy the code into the Arduino IDE or open the CPC357_Project_Code.ino file. 
 3. Change the Device IDs in the code according to your own devices.
     - **Note:** These Device IDs can be found in the V-One platform at **Device Manager > Devices**
 4. Change the pins according to your own hardware setup.
